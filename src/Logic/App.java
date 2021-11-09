@@ -88,7 +88,7 @@ public class App {
     }
    
     public static void readStatistics(MobaSystem sys) throws FileNotFoundException{
-        Scanner scan = new Scanner(new File("EstadÃ­sticas.txt"));
+        Scanner scan = new Scanner(new File("Estadísticas.txt"));
         while(scan.hasNextLine()){
             String [] data= scan.nextLine().split(",");
             String characterName = data[0];
