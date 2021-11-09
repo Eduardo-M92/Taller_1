@@ -1,0 +1,2 @@
+1,1234,vegetta1111,434,0,2,A,1,A Buena,B,2,B dragón,B cósmico,LAS
+FenrirXs,Fenrir,menorque3,430,2000,2,A,1,A Estelar,C,2,C espiritual,C aqua,LAN

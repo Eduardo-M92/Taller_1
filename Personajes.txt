@@ -1,0 +1,3 @@
+A,ADC,2,A Buena,N,A estelar,L
+B,TOP,2,B dragón,E,B cósmico,L
+C,JG,2,C espiritual,E,C aqua,N
